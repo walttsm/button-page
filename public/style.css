@@ -1,0 +1,9 @@
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    font-family: fantasy;
+    background-image: repeating-linear-gradient(red,orange,yellow,green,blue,purple);
+    padding: 40px;
+    
+}
